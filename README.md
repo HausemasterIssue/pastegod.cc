@@ -1,3 +1,7 @@
-# Client
+# pastegod.cc
 
-A new installment of ClientBase. (would be ClientBase 3.0)
+shitty rename of zihasz client base rn but as i learn java i will paste-i mean add modules ;)
+
+creds:
+me - renaming lmao
+zihasz - client base
