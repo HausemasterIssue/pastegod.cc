@@ -52,6 +52,7 @@ public class Client {
 		commandManager = new CommandManager();
 		configManager = new ConfigManager();
 		moduleManager = new ModuleManager();
+		Display.setTitle(NAME + " " + VERSION);
 
 		configManager.load();
 
